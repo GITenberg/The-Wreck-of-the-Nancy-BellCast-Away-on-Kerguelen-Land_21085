@@ -1,0 +1,41 @@
+_repo: The-Wreck-of-the-Nancy-BellCast-Away-on-Kerguelen-Land_21085
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stacey, W. S. (Walter S.)
+    aliases:
+    - Stacey, W.S.
+    - Stacey, Walter S.
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '9723'
+    url: http://www.gutenberg.org/2009/agents/9723
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutcheson, John C. (John Conroy)
+    alias: Hutcheson, John Conroy
+    gutenberg_agent_id: '9724'
+    url: http://www.gutenberg.org/2009/agents/9724
+description: ''
+gutenberg_issued: '2007-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'Sailors -- Fiction'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Blacks -- Fiction'
+- !lcsh 'Seafaring life -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcsh 'Kerguelen Islands -- Fiction'
+- !lcc 'PR'
+title: The Wreck of the Nancy Bell; Or, Cast Away on Kerguelen Land
+url: http://www.gutenberg.org/ebooks/21085
